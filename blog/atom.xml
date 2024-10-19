@@ -66,9 +66,12 @@
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="prerequisites">Prerequisites<a href="https://mir-owahed.github.io/tech-with-devops/blog/long-blog-post#prerequisites" class="hash-link" aria-label="Direct link to Prerequisites" title="Direct link to Prerequisites">​</a></h2>
 <p>Before we begin, ensure you have the following prerequisites:</p>
 <ol>
-<li><strong>Set up SSH with GitHub account.</strong></li>
-<li><strong>Install Node.js and Yarn</strong> using the instructions below.</li>
-<li><strong>Create a repository on GitHub</strong> to host your website.</li>
+<li>
+<p><strong>Set up SSH with GitHub account.</strong></p>
+</li>
+<li>
+<p><strong>Create a repository on GitHub</strong> to host your website.</p>
+</li>
 </ol>
 <hr>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="step-1-set-up-ssh-with-github">Step 1: Set up SSH with GitHub<a href="https://mir-owahed.github.io/tech-with-devops/blog/long-blog-post#step-1-set-up-ssh-with-github" class="hash-link" aria-label="Direct link to Step 1: Set up SSH with GitHub" title="Direct link to Step 1: Set up SSH with GitHub">​</a></h3>
